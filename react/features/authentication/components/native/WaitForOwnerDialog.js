@@ -72,7 +72,7 @@ class WaitForOwnerDialog extends Component<Props> {
                 }
                 okKey = 'dialog.Ok'
                 onCancel = { this._onCancel }
-                onSubmit = { this._onLogin } />
+                onSubmit = { this._onCancel } />
         );
     }
 

@@ -44,7 +44,7 @@
     },
     "calendarSync": {
         "addMeetingURL": "Een link naar een vergadering toevoegen",
-        "confirmAddLink": "Wilt u een Jitsi-link aan deze afspraak toevoegen?",
+        "confirmAddLink": "Wilt u een letsHudl-link aan deze afspraak toevoegen?",
         "error": {
             "appConfiguration": "De agenda-integratie is niet juist ingesteld.",
             "generic": "Er is een fout opgetreden. Controleer uw agenda-instellingen of vernieuw de agenda.",
@@ -356,7 +356,7 @@
         "answer": "Beantwoorden",
         "audioCallTitle": "Inkomende oproep",
         "decline": "Negeren",
-        "productLabel": "vanuit Jitsi Meet",
+        "productLabel": "vanuit letsHudl Meet",
         "videoCallTitle": "Inkomende video-oproep"
     },
     "info": {
@@ -518,7 +518,7 @@
         "newDeviceAudioTitle": "Nieuw audioapparaat gedetecteerd",
         "newDeviceAction": "Gebruik",
         "OldElectronAPPTitle": "Beveiligingskwetsbaarheid!",
-        "oldElectronClientDescription1": "Het lijkt erop dat u een oude versie van Jitsi Meet gebruikt, waarvan beveiligingskwetsbaarheden bekend zijn. Zorg ervoor dat u nu bijwerkt naar de ",
+        "oldElectronClientDescription1": "Het lijkt erop dat u een oude versie van letsHudl Meet gebruikt, waarvan beveiligingskwetsbaarheden bekend zijn. Zorg ervoor dat u nu bijwerkt naar de ",
         "oldElectronClientDescription2": "nieuwste versie",
         "oldElectronClientDescription3": "!"
     },
@@ -896,7 +896,7 @@
         "getHelp": "Hulp krijgen",
         "go": "GAAN",
         "goSmall": "GAAN",
-        "headerTitle": "Jitsi Meet",
+        "headerTitle": "letsHudl Meet",
         "headerSubtitle": "Veilige vergaderingen van hoge kwaliteit",
         "info": "Informatie",
         "join": "AANMAKEN / DEELNEMEN",

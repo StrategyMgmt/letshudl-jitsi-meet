@@ -96,7 +96,7 @@ class WaitForOwnerDialog extends PureComponent<Props> {
             <Dialog
                 okKey = { t('dialog.IamHost') }
                 onCancel = { this._onCancelWaitForOwner }
-                onSubmit = { this._onIAmHost }
+                onSubmit = { this._onCancelWaitForOwner }
                 titleKey = { t('dialog.WaitingForHostTitle') }
                 width = { 'small' }>
                 <span>

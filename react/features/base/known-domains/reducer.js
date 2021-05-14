@@ -16,10 +16,7 @@ import { ADD_KNOWN_DOMAINS } from './actionTypes';
  * out of the Andorid manifest.
  */
 export const DEFAULT_STATE = [
-    'alpha.jitsi.net',
-    'beta.meet.jit.si',
-    'meet.jit.si',
-    '8x8.vc'
+    'dev.letshudl.com:7443'
 ];
 
 const STORE_NAME = 'features/base/known-domains';
