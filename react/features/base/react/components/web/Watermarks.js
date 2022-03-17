@@ -206,7 +206,7 @@ class Watermarks extends Component<Props, State> {
                     className = 'poweredby'
                     href = 'http://jitsi.org'
                     target = '_new'>
-                    <span>{ t('poweredby') } letsHudl Meet</span>
+                    <span>{ t('poweredby') } Yohudl Meet</span>
                 </a>
             );
         }

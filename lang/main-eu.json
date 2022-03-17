@@ -39,7 +39,7 @@
     "audioOnly": { "audioOnly": "Banda-zabalera txikia" },
     "calendarSync": {
         "addMeetingURL": "Bileraren esteka gehitu",
-        "confirmAddLink": "letsHudl Meet esteka gertaera honetara gehitu nahi duzu?",
+        "confirmAddLink": "Yohudl Meet esteka gertaera honetara gehitu nahi duzu?",
         "error": {
             "appConfiguration": "Egutegiaren integrazioa ez dago ondo konfiguratuta.",
             "generic": "Errore bat gertatu da. Egiaztatu zure egutegiaren ezarpenak edo saiatu egutegia eguneratzen.",
@@ -368,7 +368,7 @@
         "answer": "Erantzun",
         "audioCallTitle": "Sarrerako deia",
         "decline": "Baztertu",
-        "productLabel": "letsHudl Meet-etik",
+        "productLabel": "Yohudl Meet-etik",
         "videoCallTitle": "Bideo-deia sartzen"
     },
     "info": {

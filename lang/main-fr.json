@@ -45,7 +45,7 @@
     },
     "calendarSync": {
         "addMeetingURL": "Ajouter un lien de conférence",
-        "confirmAddLink": "Voulez-vous ajouter un lien letsHudl Meet à cet événement ?",
+        "confirmAddLink": "Voulez-vous ajouter un lien Yohudl Meet à cet événement ?",
         "error": {
             "appConfiguration": "L'intégration du calendrier n'est pas correctement configurée.",
             "generic": "Une erreur s'est produite. Veuillez vérifier les paramètres de votre calendrier ou tenter de l'actualiser.",
@@ -360,7 +360,7 @@
         "answer": "Répondre",
         "audioCallTitle": "Appel entrant",
         "decline": "Rejeter",
-        "productLabel": "via letsHudl Meet",
+        "productLabel": "via Yohudl Meet",
         "videoCallTitle": "Appel vidéo entrant"
     },
     "info": {
@@ -526,7 +526,7 @@
         "newDeviceAudioTitle": "Nouveau périphérique audio détecté",
         "newDeviceAction": "Utiliser",
         "OldElectronAPPTitle": "Vulnérabilité de sécurité !",
-        "oldElectronClientDescription1": "Vous semblez utiliser une ancienne version du client letsHudl Meet qui présente des vulnérabilités de sécurité connues. Veuillez vous assurer de mettre à jour vers notre ",
+        "oldElectronClientDescription1": "Vous semblez utiliser une ancienne version du client Yohudl Meet qui présente des vulnérabilités de sécurité connues. Veuillez vous assurer de mettre à jour vers notre ",
         "oldElectronClientDescription2": "dernière build",
         "oldElectronClientDescription3": " rapidement !"
     },
@@ -1411,7 +1411,7 @@
         "getHelp": "Obtenir de l'aide",
         "go": "Créer",
         "goSmall": "Créer",
-        "headerTitle": "letsHudl Meet",
+        "headerTitle": "Yohudl Meet",
         "headerSubtitle": "Conférences sécurisées et de haute qualité",
         "info": "Infos",
         "join": "CRÉER / REJOINDRE",

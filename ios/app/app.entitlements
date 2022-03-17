@@ -4,7 +4,7 @@
 <dict>
 	<key>com.apple.developer.associated-domains</key>
 	<array>
-		<string>applinks:dev.letshudl.com:7443</string>
+		<string>applinks:app.yohudl.com:7443</string>
 	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>

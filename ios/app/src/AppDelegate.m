@@ -31,7 +31,7 @@
 
     jitsiMeet.conferenceActivityType = JitsiMeetConferenceActivityType;
     jitsiMeet.customUrlScheme = @"org.jitsi.meet";
-    jitsiMeet.universalLinkDomains = @[@"dev.letshudl.com:7443"];
+    jitsiMeet.universalLinkDomains = @[@"app.yohudl.com:7443"];
 
     jitsiMeet.defaultConferenceOptions = [JitsiMeetConferenceOptions fromBuilder:^(JitsiMeetConferenceOptionsBuilder *builder) {
         [builder setFeatureFlag:@"welcomepage.enabled" withBoolean:YES];

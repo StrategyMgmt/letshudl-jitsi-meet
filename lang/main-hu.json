@@ -29,7 +29,7 @@
     },
     "calendarSync": {
         "addMeetingURL": "Értekezlet hivatkozásának hozzáadása",
-        "confirmAddLink": "Hozzáadható egy letsHudl Meet hivatkozás az eseményhez?",
+        "confirmAddLink": "Hozzáadható egy Yohudl Meet hivatkozás az eseményhez?",
         "error": {
             "appConfiguration": "A naptárintegráció nincs helyesen konfigurálva.",
             "generic": "Hiba történt. Ellenőrizze a naptár beállításait vagy próbálja frissíteni a naptárat.",
@@ -301,7 +301,7 @@
         "answer": "Válasz",
         "audioCallTitle": "Bejövő hívás",
         "decline": "Elutasítás",
-        "productLabel": "a letsHudl Meettől",
+        "productLabel": "a Yohudl Meettől",
         "videoCallTitle": "Bejövő videohívás"
     },
     "info": {

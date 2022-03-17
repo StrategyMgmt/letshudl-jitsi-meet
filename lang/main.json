@@ -63,7 +63,7 @@
     },
     "calendarSync": {
         "addMeetingURL": "Add a meeting link",
-        "confirmAddLink": "Do you want to add a letsHudl Meet link to this event?",
+        "confirmAddLink": "Do you want to add a Yohudl Meet link to this event?",
         "error": {
             "appConfiguration": "Calendar integration is not properly configured.",
             "generic": "An error has occurred. Please check your calendar settings or try refreshing the calendar.",
@@ -436,7 +436,7 @@
         "answer": "Answer",
         "audioCallTitle": "Incoming call",
         "decline": "Dismiss",
-        "productLabel": "from letsHudl Meet",
+        "productLabel": "from Yohudl Meet",
         "videoCallTitle": "Incoming video call"
     },
     "info": {
@@ -622,7 +622,7 @@
         "newDeviceAudioTitle": "New audio device detected",
         "newDeviceAction": "Use",
         "OldElectronAPPTitle": "Security vulnerability!",
-        "oldElectronClientDescription1": "You appear to be using an old version of the letsHudl Meet client which has known security vulnerabilities. Please make sure you update to our ",
+        "oldElectronClientDescription1": "You appear to be using an old version of the Yohudl Meet client which has known security vulnerabilities. Please make sure you update to our ",
         "oldElectronClientDescription2": "latest build",
         "oldElectronClientDescription3": " now!",
         "moderationInEffectDescription": "Please raise hand if you want to speak.",
@@ -1158,7 +1158,7 @@
         "getHelp": "Get help",
         "go": "GO",
         "goSmall": "GO",
-        "headerTitle": "letsHudl Meet",
+        "headerTitle": "Yohudl Meet",
         "headerSubtitle": "Secure and high quality meetings",
         "info": "Dial-in info",
         "join": "CREATE / JOIN",

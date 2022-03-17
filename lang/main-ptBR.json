@@ -41,7 +41,7 @@
     },
     "calendarSync": {
         "addMeetingURL": "Adicionar um link da reunião",
-        "confirmAddLink": "Gostaria de adicionar um link do letsHudl Meet a esse evento?",
+        "confirmAddLink": "Gostaria de adicionar um link do Yohudl Meet a esse evento?",
         "error": {
             "appConfiguration": "A integração com calendário não está configurada adequadamente.",
             "generic": "Ocorreu um erro. Verifique as configurações de calendário ou tente atualizar o calendário.",
@@ -392,7 +392,7 @@
         "answer": "Responder",
         "audioCallTitle": "Chamada recebida",
         "decline": "Dispensar",
-        "productLabel": "do letsHudl Meet",
+        "productLabel": "do Yohudl Meet",
         "videoCallTitle": "Chamada de vídeo recebida"
     },
     "info": {
@@ -627,7 +627,7 @@
         "newDeviceAudioTitle": "Novo dispositivo de áudio detectado",
         "newDeviceAction": "Usar",
         "OldElectronAPPTitle": "Vulnerabilidade de segurança!",
-        "oldElectronClientDescription1": "Você está usando um versão antiga do cliente letsHudl Meet que possui uma conhecida vulnerabilidade de segurança. Por favor tenha certeza de atulizar para a nossa ",
+        "oldElectronClientDescription1": "Você está usando um versão antiga do cliente Yohudl Meet que possui uma conhecida vulnerabilidade de segurança. Por favor tenha certeza de atulizar para a nossa ",
         "oldElectronClientDescription2": "última versão",
         "oldElectronClientDescription3": " agora!"
     },

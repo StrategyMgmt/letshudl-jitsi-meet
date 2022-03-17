@@ -30,7 +30,7 @@
         <action android:name="android.intent.action.VIEW" />
         <category android:name="android.intent.category.BROWSABLE" />
         <category android:name="android.intent.category.DEFAULT" />
-        <data android:host="dev.letshudl.com:7443" android:scheme="https" />
+        <data android:host="app.yohudl.com:7443" android:scheme="https" />
       </intent-filter>
       <intent-filter>
         <action android:name="android.intent.action.VIEW" />

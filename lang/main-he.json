@@ -29,7 +29,7 @@
     },
     "calendarSync": {
         "addMeetingURL": "הוסף קישור מפגש",
-        "confirmAddLink": "האם ברצונך הוסיף קישור letsHudl Meet לאירוע זה?",
+        "confirmAddLink": "האם ברצונך הוסיף קישור Yohudl Meet לאירוע זה?",
         "error": {
             "appConfiguration": "שילוב לוח השנה אינו מוגדר כראוי.",
             "generic": "אירעה שגיאה. אנא בדוק את הגדרות לוח השנה שלך או נסה לרענן את לוח השנה.",
@@ -305,7 +305,7 @@
         "answer": "תשובה",
         "audioCallTitle": "שיחה נכנסת",
         "decline": "דחה",
-        "productLabel": "מפגישת letsHudl",
+        "productLabel": "מפגישת Yohudl",
         "videoCallTitle": "שיחת וידאו נכנסת"
     },
     "info": {
@@ -464,7 +464,7 @@
         "newDeviceAudioTitle": "זוהה התקן שמע חדש",
         "newDeviceAction": "השתמש",
         "OldElectronAPPTitle": "פגיעות אבטחה!",
-        "oldElectronClientDescription1": "נראה שאתה משתמש בגירסה ישנה של לקוח letsHudl Meet עם פגיעויות אבטחה ידועות. אנא וודא שאתה מעדכן ",
+        "oldElectronClientDescription1": "נראה שאתה משתמש בגירסה ישנה של לקוח Yohudl Meet עם פגיעויות אבטחה ידועות. אנא וודא שאתה מעדכן ",
         "oldElectronClientDescription2": "לגירסה האחרונה",
         "oldElectronClientDescription3": " כעת!"
     },

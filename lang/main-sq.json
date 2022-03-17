@@ -41,7 +41,7 @@
     },
     "calendarSync": {
         "addMeetingURL": "Shtoni një lidhje takimi",
-        "confirmAddLink": "Doni të shtohet një lidhje letsHudl te kjo veprimtari?",
+        "confirmAddLink": "Doni të shtohet një lidhje Yohudl te kjo veprimtari?",
         "error": {
             "appConfiguration": "Integrimi i kalendarëve s’është formësuar si duhet.",
             "generic": "Ndodhi një gabim. Ju lutemi, kontrolloni rregullimet për kalendarin tuaj, ose provoni të rifreskoni kalendarin.",
@@ -380,7 +380,7 @@
         "answer": "Përgjigjuni",
         "audioCallTitle": "Thirrje ardhëse",
         "decline": "Hidhe tej",
-        "productLabel": "nga letsHudl Meet",
+        "productLabel": "nga Yohudl Meet",
         "videoCallTitle": "Thirrje ardhëse me video"
     },
     "info": {
@@ -550,7 +550,7 @@
         "newDeviceAudioTitle": "U pikas pajisje audio e re",
         "newDeviceAction": "Përdore",
         "OldElectronAPPTitle": "Cenueshmëri sigurie!",
-        "oldElectronClientDescription1": "Duket se përdorni një version të vjetër të klientit letsHudl Meet, i cili përmban cenueshmëri të ditura sigurie. Ju lutemi, siguroni përditësimin e tij me ",
+        "oldElectronClientDescription1": "Duket se përdorni një version të vjetër të klientit Yohudl Meet, i cili përmban cenueshmëri të ditura sigurie. Ju lutemi, siguroni përditësimin e tij me ",
         "oldElectronClientDescription2": "montimin tonë më të ri",
         "oldElectronClientDescription3": " që tani!",
         "moderationInEffectDescription": "Ju lutemi, nëse doni të flisni, ngrini dorën",
@@ -985,7 +985,7 @@
         "getHelp": "Merrni ndihmë",
         "go": "SHKO",
         "goSmall": "SHKO",
-        "headerTitle": "letsHudl Meet",
+        "headerTitle": "Yohudl Meet",
         "headerSubtitle": "Takime me siguri dhe me cilësi të lartë",
         "info": "Hollësi për dial-in",
         "join": "KRIJONI / MERRNI PJESË",

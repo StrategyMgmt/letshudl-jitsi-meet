@@ -3,4 +3,4 @@
 /**
  * The default server URL to open if no other was specified.
  */
-export const DEFAULT_SERVER_URL = 'https://dev.letshudl.com:7443';
+export const DEFAULT_SERVER_URL = 'https://app.yohudl.com:7443';

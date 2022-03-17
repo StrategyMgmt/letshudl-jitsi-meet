@@ -49,7 +49,7 @@
     },
     "calendarSync": {
         "addMeetingURL": "Lägg till en möteslänk",
-        "confirmAddLink": "Vill du lägga till en letsHudl Meet-länk i händelsen?",
+        "confirmAddLink": "Vill du lägga till en Yohudl Meet-länk i händelsen?",
         "error": {
             "appConfiguration": "Kalenderintegrationen är inte rätt inställd.",
             "generic": "Ett fel har inträffat. Kontrollera dina kalenderinställningar eller uppdatera kalendern.",
@@ -413,7 +413,7 @@
         "answer": "Svara",
         "audioCallTitle": "Inkommande samtal",
         "decline": "Avvisa",
-        "productLabel": "från letsHudl Meet",
+        "productLabel": "från Yohudl Meet",
         "videoCallTitle": "Inkommande videosamtal"
     },
     "info": {
