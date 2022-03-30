@@ -132,10 +132,12 @@ form {
 
 .leftwatermark {
     left: 32px;
-    top: 32px;
+    // top: 32px;
     background-position: center left;
     background-repeat: no-repeat;
     background-size: contain;
+    height: 20vh;
+    width: 20vw;
 }
 
 .rightwatermark {
